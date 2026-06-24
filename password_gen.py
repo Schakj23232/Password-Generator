@@ -1,8 +1,5 @@
 import random
 import pyperclip
-from time import sleep
-
-
 
 def main():
     letters = input("How many letters long do you want the password to be?")
